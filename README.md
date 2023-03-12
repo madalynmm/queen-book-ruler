@@ -10,4 +10,4 @@ This application uses GraphQL and Apollo Server to create a MERN Books API searc
 
 ## Link to deployed application:
 
-[Book Search Engine](https://nameless-everglades-88918.herokuapp.com/)
+[Book Search Engine](https://fast-tundra-99935.herokuapp.com/
